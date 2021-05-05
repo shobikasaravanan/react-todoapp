@@ -1,0 +1,20 @@
+.todo-container {
+    text-align: left;
+}
+
+.todo-wrapper {
+    background: hsl(264, 24%, 96%);
+    padding: 5px;
+    border: 4px solid hsl(266, 97%, 13%);
+    margin: 20px 40px;
+    display: inline-flex;
+    align-items: center;
+
+}
+
+.modal-container {
+    display: inline-block;
+    background:  hsl(264, 44%, 88%);;
+    margin: 10px 20px;
+    padding: 20px;
+}
